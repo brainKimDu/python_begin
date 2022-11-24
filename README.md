@@ -29,4 +29,12 @@
 - 모든 문제는 jupyter notebook을 통해 해결하고 있음.
 
 
+## 수료증
+- 수료증은 GITHUB에 올릴 예정입니다.
 
+### 모두를 위한 프로그래밍 파이썬
+</br>
+![image](https://user-images.githubusercontent.com/110883172/203779782-406fed03-0d91-4cbc-b103-0db0fe7b8406.png)
+</br>
+
+### 파이썬 
