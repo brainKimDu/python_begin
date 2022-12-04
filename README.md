@@ -40,4 +40,11 @@
 
 ### 2. 파이썬 자료구조
 
+</br>
+
+![image](https://user-images.githubusercontent.com/110883172/205484301-bfdf95b5-3a7d-416d-ac4f-5cdfec454d43.png)
+
+</br>
+
+
 
