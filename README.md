@@ -15,10 +15,6 @@
 ## 강의 
 - 1. https://www.edwith.org/pythonforeverybody (모두를 위한 프로그래밍 파이썬) (완료)
 - 2. https://www.edwith.org/python-data (파이썬 자료구조) (완료)
-- 3. https://www.boostcourse.org/cs113 (파이썬을 이용한 알고리즘의 이해) (진행예정)
-- 4. https://www.edwith.org/knu-algorithm (파이썬을 이용한 알고리즘 기초)
-
-- 경우에 따라서 사용하는 언어가 다르지만 https://www.boostcourse.org/cs204/joinLectures/145114 (자바로 구현하고 배우는 자료구조)를 통해 자료구조를 공부할 수 있음)
 
 
 </br>
@@ -28,8 +24,6 @@
 - https://wikidocs.net/78548
 - 모든 문제는 jupyter notebook을 통해 해결하고 있음.
 
-### 백준에서 알고리즘 관련 문제를 풀어볼 계획입니다.
-- 스터티원들과 협의가 되면 추가하도록하겠습니다.
 
 ## 수료증
 
